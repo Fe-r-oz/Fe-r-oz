@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Fe-r-oz
+- 👋 Hi, I’m @Fe-r-oz Ahmad.
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Electrical Engineering!!
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 💞️ I’m looking to collaborate on Machine Learning Projects, Electrical Engineering Project which require software.
 - 📫 How to reach me email me at ferozahmad7cf@gmail.com
 
 <!---
