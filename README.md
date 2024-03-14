@@ -9,7 +9,14 @@
     - [Implementation of {2^j, 2^j-j-2, 3} Gottesman Code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/238)
 
 ### Projects Demonstration
--  Coming Soon
+-  [Bachelor's Thesis](https://drive.google.com/file/d/1Hf5TzoBrv4sndfoux04q8yrBUtrl11RA/view?usp=sharing)
+   - [Demonstation](https://drive.google.com/file/d/11NER5rYtfMe7j5IyV6gFbEhFXv7qvngh/view)
+   - [High Level Synthesis](https://drive.google.com/file/d/1D1L7VW7wPGFh4X2ThIeDf2wji_eQjKVp/view)
+   - [Investigation and Testing](https://drive.google.com/file/d/1DLl6uXcefTzakWTSMXCKL0XQ-6ty9vLh/view)
+- [Pulse Width Modulation](https://drive.google.com/file/d/1B3MJRndNn3Ljj4pWAY5kzeo6Uwts84uW/view?usp=sharing)
+   - [Pulse Width Shaping](https://drive.google.com/file/d/1Euf0GnOQt1OZg48J_G98ttEPd1I_huzL/view)
+   - [Dimming Effect of Modulation](https://drive.google.com/file/d/1PuWWsn8yBvko8I4AIpJzoWOh2S7COG2U/view?usp=sharing)
+   - [Design Simulation](https://drive.google.com/file/d/1bReUumJahM-54HgRhMCEmbSPBZZNymhr/view?usp=drive_link)
 </td>
 <td valign="top">
 
@@ -24,7 +31,6 @@
 - [Silicon-based Quantum Computing](https://medium.com/quantum-engineering/silicon-based-quantum-computing-af136a56e921)
 - [Quantum Annealing](https://medium.com/quantum-engineering/d-wave-and-quantum-annealing-cf8b1a77d46e)
 - [Quantum Materials](https://medium.com/quantum-engineering/quantum-materials-f8541e155274)
-
 
 </td>
 
