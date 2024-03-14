@@ -26,7 +26,7 @@
 <td valign="top">
 
 ### Selected Publication 
--  [Published Paper: SoC-based Deep Learning Accelerator for ECG Classification](https://ieeexplore.ieee.org/document/10399904)
+-  [Published Journal Paper: SoC-based Deep Learning Accelerator for ECG Classification](https://ieeexplore.ieee.org/document/10399904)
 
 ### Selected Articles  
 - [Constructor Theory of Information and Its Application in Hybrid Quantum Systems](https://medium.com/quantum-engineering/constructor-theory-60093a2885ef)
