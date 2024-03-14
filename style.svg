@@ -1,33 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="120">
   <style>
-    table {
-      width: 100%;
+    /* Define styles for the table */
+    .table {
+      font-family: Arial, sans-serif;
       border-collapse: collapse;
-      background-color: inherit; /* Inherit background color from parent element */
+      width: 100%;
     }
 
-    th, td {
-      padding: 10px;
+    .table th, .table td {
+      border: 1px solid #dddddd;
       text-align: left;
-      border-bottom: 1px solid #ddd;
-      background-color: #f8f8f8; /* Set background to a light gray */
+      padding: 10px;
     }
 
-    th {
-      background-color: #4CAF50; /* Set header background color */
-      color: white; /* Set header text color */
+    .table tr:nth-child(even) {
+      background-color: #f2f2f2;
     }
 
-    td:first-child {
-      background-color: #ffdb4d; /* Set first column background color */
+    .table th {
+      background-color: #4CAF50;
+      color: white;
+      font-size: 16px;
     }
 
-    td:nth-child(2) {
-      background-color: #66ccff; /* Set second column background color */
+    .table td {
+      font-size: 14px;
     }
 
-    td:nth-child(3) {
-      background-color: #ff9999; /* Set third column background color */
+    .content {
+      padding: 10px;
+    }
+
+    .projects {
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .header {
+      font-size: 18px;
     }
   </style>
+
+  <!-- Table content -->
+  <rect x="10" y="10" width="480" height="100" fill="#fff" stroke="#000" />
+
+  <!-- Table -->
+  <g class="table">
+    <!-- First Column -->
+    <g class="content">
+      <text x="20" y="30" class="header">Projects I am part of</text>
+      <text x="20" y="60" class="projects">Project 1</text>
+      <text x="20" y="80" class="projects">Project 2</text>
+    </g>
+
+    <!-- Second Column -->
+    <g class="content">
+      <text x="180" y="30" class="header">Projects Demonstration</text>
+      <text x="180" y="60">-</text>
+      <text x="180" y="80">-</text>
+    </g>
+
+    <!-- Third Column -->
+    <g class="content">
+      <text x="340" y="30" class="header">Selected Publications and Articles</text>
+    </g>
+
+    <!-- Fourth Column -->
+    <g class="content">
+      <text x="340" y="80" class="header">Hobbies</text>
+    </g>
+  </g>
 </svg>
