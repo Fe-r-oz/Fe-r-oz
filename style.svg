@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: inherit; /* Inherit background color from parent element */
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+      background-color: #f8f8f8; /* Set background to a light gray */
+    }
+
+    th {
+      background-color: #4CAF50; /* Set header background color */
+      color: white; /* Set header text color */
+    }
+
+    td:first-child {
+      background-color: #ffdb4d; /* Set first column background color */
+    }
+
+    td:nth-child(2) {
+      background-color: #66ccff; /* Set second column background color */
+    }
+
+    td:nth-child(3) {
+      background-color: #ff9999; /* Set third column background color */
+    }
+  </style>
+</svg>
