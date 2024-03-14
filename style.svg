@@ -1,73 +1,21 @@
-<svg width="500" height="120">
-  <style>
-    /* Define styles for the table */
-    .table {
-      font-family: Arial, sans-serif;
-      border-collapse: collapse;
-      width: 100%;
-    }
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
 
-    .table th, .table td {
-      border: 1px solid #dddddd;
-      text-align: left;
-      padding: 10px;
-    }
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f3f4f6"/>
 
-    .table tr:nth-child(even) {
-      background-color: #f2f2f2;
-    }
+  <!-- Table Borders -->
+  <rect x="50" y="30" width="700" height="140" fill="none" stroke="#d1d5db" stroke-width="2"/>
+  <line x1="250" y1="30" x2="250" y2="170" stroke="#d1d5db" stroke-width="2"/>
+  <line x1="500" y1="30" x2="500" y2="170" stroke="#d1d5db" stroke-width="2"/>
 
-    .table th {
-      background-color: #4CAF50;
-      color: white;
-      font-size: 16px;
-    }
+  <!-- Table Headers -->
+  <text x="125" y="20" font-family="Arial" font-size="18" fill="#333" font-weight="bold">Projects I am part of</text>
+  <text x="375" y="20" font-family="Arial" font-size="18" fill="#333" font-weight="bold">Selected Publication and Articles</text>
+  <text x="625" y="20" font-family="Arial" font-size="18" fill="#333" font-weight="bold">Hobbies</text>
 
-    .table td {
-      font-size: 14px;
-    }
+  <!-- Table Content -->
+  <text x="75" y="60" font-family="Arial" font-size="16" fill="#333">Projects Demonstration</text>
+  <text x="325" y="60" font-family="Arial" font-size="16" fill="#333">-</text>
+  <text x="575" y="60" font-family="Arial" font-size="16" fill="#333">-</text>
 
-    .content {
-      padding: 10px;
-    }
-
-    .projects {
-      font-weight: bold;
-      font-size: 16px;
-    }
-
-    .header {
-      font-size: 18px;
-    }
-  </style>
-
-  <!-- Table content -->
-  <rect x="10" y="10" width="480" height="100" fill="#fff" stroke="#000" />
-
-  <!-- Table -->
-  <g class="table">
-    <!-- First Column -->
-    <g class="content">
-      <text x="20" y="30" class="header">Projects I am part of</text>
-      <text x="20" y="60" class="projects">Project 1</text>
-      <text x="20" y="80" class="projects">Project 2</text>
-    </g>
-
-    <!-- Second Column -->
-    <g class="content">
-      <text x="180" y="30" class="header">Projects Demonstration</text>
-      <text x="180" y="60">-</text>
-      <text x="180" y="80">-</text>
-    </g>
-
-    <!-- Third Column -->
-    <g class="content">
-      <text x="340" y="30" class="header">Selected Publications and Articles</text>
-    </g>
-
-    <!-- Fourth Column -->
-    <g class="content">
-      <text x="340" y="80" class="header">Hobbies</text>
-    </g>
-  </g>
 </svg>
