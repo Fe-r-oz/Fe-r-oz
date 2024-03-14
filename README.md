@@ -23,7 +23,7 @@
 <td valign="top">
 
 ### Selected Publication and Articles
-
+- [Constructor Theory of Information and Its Application in Hybrid Quantum Systems](https://medium.com/quantum-engineering/constructor-theory-60093a2885ef)
 - [SoC-based Deep Learning Accelerator for ECG Classification](https://ieeexplore.ieee.org/document/10399904)
 - [Topoligical Quantum Computin](https://medium.com/quantum-engineering/topological-quantum-computation-a82ea546fc1b)
 - [Neutral Atom Quantum Computing](https://medium.com/quantum-engineering/neutral-atom-quantum-computing-800b1f43e907)
