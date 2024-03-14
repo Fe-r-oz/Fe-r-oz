@@ -1,4 +1,3 @@
-![Custom Table](style.svg)
 ## My github presence
 <table style="width: 100%; border-collapse: collapse; background-color: #F0EEE0">
 <tr>
