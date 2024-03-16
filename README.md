@@ -6,7 +6,6 @@
 ### Projects I am part of
 
 - [QuantumClifford.jl](https://github.com/Krastanov/QuantumClifford.jl) for quantum Clifford circuits
-    - [Implementation of {2^j, 2^j-j-2, 3} Gottesman Code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/238)
  
 ### Courses I am part of
  - [Spin-based Quantum Computing - Qubit Platforms (2024)](https://www.nccr-spin.ch/news/open-course-spin-based-quantum-computing-qubit-platforms-2024)
