@@ -52,6 +52,8 @@
      - [15 Aug, 1971](https://pragmaticlyabstract.medium.com/15-aug-1971-the-onset-of-the-inevitable-decline-of-gobal-monetary-system-0dead6f93e2b)
      - [Hume's Paradox](https://pragmaticlyabstract.medium.com/humes-paradox-the-power-of-opinion-in-authoritarian-structures-f672635df5e7)
 
+### Merged PRs
+- [Adding Cousin details of [[8,3,3]] stabilizer code](https://github.com/errorcorrectionzoo/eczoo_data/pull/341)
 </td>
 </tr>
 </table>
