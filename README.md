@@ -55,6 +55,9 @@
 ### Merged PRs
 - [Adding iscss function for #222](https://github.com/QuantumSavory/QuantumClifford.jl/pull/241)
 - [Adding Cousin details of [[8,3,3]] stabilizer code](https://github.com/errorcorrectionzoo/eczoo_data/pull/341)
+
+### Closed PRs
+- [Homegrown Implementation of Gottesman code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/238)
 </td>
 </tr>
 </table>
