@@ -56,7 +56,7 @@
 - [Adding iscss function for #222](https://github.com/QuantumSavory/QuantumClifford.jl/pull/241)
 - [Adding Cousin details of [[8,3,3]] stabilizer code](https://github.com/errorcorrectionzoo/eczoo_data/pull/341)
 
-### Co-authored
+### Co-authored PRs
 - [Gottesman's Code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/240)
 
 ### Closed PRs
