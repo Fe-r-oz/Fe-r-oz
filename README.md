@@ -53,6 +53,7 @@
      - [Hume's Paradox](https://pragmaticlyabstract.medium.com/humes-paradox-the-power-of-opinion-in-authoritarian-structures-f672635df5e7)
 
 ### Merged PRs
+- [Adding classical Reed-Muller code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/244)
 - [Adding iscss function for #222](https://github.com/QuantumSavory/QuantumClifford.jl/pull/241)
 - [Adding Cousin details of [[8,3,3]] stabilizer code](https://github.com/errorcorrectionzoo/eczoo_data/pull/341)
 
