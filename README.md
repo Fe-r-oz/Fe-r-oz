@@ -10,6 +10,9 @@
 ### Courses I am part of
  - [Spin-based Quantum Computing - Qubit Platforms (2024)](https://www.nccr-spin.ch/news/open-course-spin-based-quantum-computing-qubit-platforms-2024)
 
+### Open PRs
+- [Steane-Reed-Muller code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/247)
+
 ### Projects Demonstration
 -  [Bachelors Thesis](https://drive.google.com/file/d/1Hf5TzoBrv4sndfoux04q8yrBUtrl11RA/view?usp=sharing)
    - [Demonstation](https://drive.google.com/file/d/11NER5rYtfMe7j5IyV6gFbEhFXv7qvngh/view)
