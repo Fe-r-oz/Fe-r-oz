@@ -3,15 +3,13 @@
 <tr>
 <td valign="top" style="padding: 15px; vertical-align: top; background-color: #f0f0f0;">
   
-### Projects I am part of
-
-- [QuantumClifford.jl](https://github.com/Krastanov/QuantumClifford.jl) for quantum Clifford circuits
+### Merged PRs
+- [Adding classical Reed-Muller code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/244)
+- [Adding iscss function for #222](https://github.com/QuantumSavory/QuantumClifford.jl/pull/241)
+- [Adding Cousin details of [[8,3,3]] stabilizer code](https://github.com/errorcorrectionzoo/eczoo_data/pull/341)
  
 ### Courses I am part of
  - [Spin-based Quantum Computing - Qubit Platforms (2024)](https://www.nccr-spin.ch/news/open-course-spin-based-quantum-computing-qubit-platforms-2024)
-
-### Open PRs
-- [Steane-Reed-Muller code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/247)
 
 ### Projects Demonstration
 -  [Bachelors Thesis](https://drive.google.com/file/d/1Hf5TzoBrv4sndfoux04q8yrBUtrl11RA/view?usp=sharing)
@@ -23,7 +21,6 @@
    - [Dimming Effect of Modulation](https://drive.google.com/file/d/1PuWWsn8yBvko8I4AIpJzoWOh2S7COG2U/view?usp=sharing)
    - [Design Simulation](https://drive.google.com/file/d/1bReUumJahM-54HgRhMCEmbSPBZZNymhr/view?usp=drive_link)
   
-
 </td>
 <td valign="top">
 
@@ -55,10 +52,6 @@
      - [15 Aug, 1971](https://pragmaticlyabstract.medium.com/15-aug-1971-the-onset-of-the-inevitable-decline-of-gobal-monetary-system-0dead6f93e2b)
      - [Hume's Paradox](https://pragmaticlyabstract.medium.com/humes-paradox-the-power-of-opinion-in-authoritarian-structures-f672635df5e7)
 
-### Merged PRs
-- [Adding classical Reed-Muller code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/244)
-- [Adding iscss function for #222](https://github.com/QuantumSavory/QuantumClifford.jl/pull/241)
-- [Adding Cousin details of [[8,3,3]] stabilizer code](https://github.com/errorcorrectionzoo/eczoo_data/pull/341)
 
 ### Co-authored PRs
 - [Gottesman's Code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/240)
