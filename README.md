@@ -8,6 +8,9 @@
 - [Adding iscss function for #222](https://github.com/QuantumSavory/QuantumClifford.jl/pull/241)
 - [Adding Cousin details of [[8,3,3]] stabilizer code](https://github.com/errorcorrectionzoo/eczoo_data/pull/341)
  
+### Open PRs
+- [adding classical Reed-Solomon and BCH codes to the ECC Module](https://github.com/QuantumSavory/QuantumClifford.jl/pull/254)
+- [SteaneReedMuller Code ](https://github.com/QuantumSavory/QuantumClifford.jl/pull/251)
 ### Courses I am part of
  - [Spin-based Quantum Computing - Qubit Platforms (2024)](https://www.nccr-spin.ch/news/open-course-spin-based-quantum-computing-qubit-platforms-2024)
 
