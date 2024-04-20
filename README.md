@@ -32,7 +32,7 @@
 -  [Published Journal Paper: SoC-based Deep Learning Accelerator for ECG Classification](https://ieeexplore.ieee.org/document/10399904)
 
 ### Selected Articles  
- [![Feroz Ahmad's Medium](https://github-readme-medium.vercel.app/?username=pragmaticlyabstract&limit=2)](https://medium.com/@pragmaticlyabstract)
+ [![Feroz Ahmad's Medium](https://github-readme-medium.vercel.app/?username=pragmaticlyabstract&limit=1)](https://medium.com/@pragmaticlyabstract)
 - [Constructor Theory of Information and Its Application in Hybrid Quantum Systems](https://medium.com/quantum-engineering/constructor-theory-60093a2885ef)
 - [Topological Quantum Computing](https://medium.com/quantum-engineering/topological-quantum-computation-a82ea546fc1b)
 - [Neutral Atom Quantum Computing](https://medium.com/quantum-engineering/neutral-atom-quantum-computing-800b1f43e907)
