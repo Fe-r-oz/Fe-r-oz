@@ -56,13 +56,14 @@
 - [Economics and Global Monetary System](https://pragmaticlyabstract.medium.com/list/global-economic-system-60b459918712)
      - [15 Aug, 1971](https://pragmaticlyabstract.medium.com/15-aug-1971-the-onset-of-the-inevitable-decline-of-gobal-monetary-system-0dead6f93e2b)
      - [Hume's Paradox](https://pragmaticlyabstract.medium.com/humes-paradox-the-power-of-opinion-in-authoritarian-structures-f672635df5e7)
-
-
+     - 
 ### Co-authored PRs
 - [Gottesman's Code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/240)
 
 ### Closed PRs
 - [Homegrown Implementation of Gottesman code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/238)
+
+<a href="https://clustrmaps.com/site/1bzae" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=7lqB-7k2VDcxrCwG5oWALUc-f-ZKtaIcpovkorBUMws&cl=ffffff"></a>
 </td>
 </tr>
 </table>
