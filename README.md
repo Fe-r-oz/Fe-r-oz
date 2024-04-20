@@ -1,5 +1,7 @@
 ## Welcome  ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
-[![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=Fe-r-oz&count_private=true&hide=stars&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Fe-r-oz/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=Fe-r-oz&theme=blue-navy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fe-r-oz&theme=blue-navy)](https://git.io/streak-stats)
+[![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=Fe-r-oz&count_private=true&hide=stars&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Fe-r-oz/github-readme-stats)
+
 <table style="width: 100%; border-collapse: collapse; background-color: #F0EEE0">
 <tr>
 <td valign="top" style="padding: 15px; vertical-align: top; background-color: #f0f0f0;">
