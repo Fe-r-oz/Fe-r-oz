@@ -1,6 +1,5 @@
-## Welcome 
-
-![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
+## Welcome  ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
+[![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=Fe-r-oz&count_private=true&hide=stars&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Fe-r-oz/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=Fe-r-oz&theme=blue-navy)](https://git.io/streak-stats)
 <table style="width: 100%; border-collapse: collapse; background-color: #F0EEE0">
 <tr>
 <td valign="top" style="padding: 15px; vertical-align: top; background-color: #f0f0f0;">
@@ -33,6 +32,7 @@
 -  [Published Journal Paper: SoC-based Deep Learning Accelerator for ECG Classification](https://ieeexplore.ieee.org/document/10399904)
 
 ### Selected Articles  
+ [![Feroz Ahmad's Medium](https://github-readme-medium.vercel.app/?username=pragmaticlyabstract&limit=2)](https://medium.com/@pragmaticlyabstract)
 - [Constructor Theory of Information and Its Application in Hybrid Quantum Systems](https://medium.com/quantum-engineering/constructor-theory-60093a2885ef)
 - [Topological Quantum Computing](https://medium.com/quantum-engineering/topological-quantum-computation-a82ea546fc1b)
 - [Neutral Atom Quantum Computing](https://medium.com/quantum-engineering/neutral-atom-quantum-computing-800b1f43e907)
@@ -42,7 +42,7 @@
 - [Silicon-based Quantum Computing](https://medium.com/quantum-engineering/silicon-based-quantum-computing-af136a56e921)
 - [Quantum Annealing](https://medium.com/quantum-engineering/d-wave-and-quantum-annealing-cf8b1a77d46e)
 - [Quantum Materials](https://medium.com/quantum-engineering/quantum-materials-f8541e155274)
-[![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=Fe-r-oz&count_private=true&hide=stars&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Fe-r-oz/github-readme-stats)
+  
 </td>
 
 <td valign="top">
@@ -56,14 +56,13 @@
 - [Economics and Global Monetary System](https://pragmaticlyabstract.medium.com/list/global-economic-system-60b459918712)
      - [15 Aug, 1971](https://pragmaticlyabstract.medium.com/15-aug-1971-the-onset-of-the-inevitable-decline-of-gobal-monetary-system-0dead6f93e2b)
      - [Hume's Paradox](https://pragmaticlyabstract.medium.com/humes-paradox-the-power-of-opinion-in-authoritarian-structures-f672635df5e7)
-     - 
+       
 ### Co-authored PRs
 - [Gottesman's Code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/240)
 
 ### Closed PRs
 - [Homegrown Implementation of Gottesman code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/238)
 
-<a href="https://clustrmaps.com/site/1bzae" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=7lqB-7k2VDcxrCwG5oWALUc-f-ZKtaIcpovkorBUMws&cl=ffffff"></a>
 </td>
 </tr>
 </table>
