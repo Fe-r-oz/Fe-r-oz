@@ -1,4 +1,4 @@
-## Welcome  ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
+## Welcome, open to meaningful collaborations!  ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
 [![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=Fe-r-oz&count_private=true&hide=stars&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Fe-r-oz/github-readme-stats)
 <table style="width: 100%; border-collapse: collapse; background-color: #F0EEE0">
 <tr>
