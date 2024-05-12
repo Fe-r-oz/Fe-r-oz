@@ -1,5 +1,16 @@
 ## Welcome  ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
-[![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=Fe-r-oz&count_private=true&hide=stars&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Fe-r-oz/github-readme-stats)
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fe-r-oz&theme=dark" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fe-r-oz&theme=dark" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fe-r-oz&theme=dark" />
+  </a>
+</div>
 
 ## Favorite Quote
 *I don't want to be a display scientist, I want to be one that studies the sciences to help others ~ Grigori Perelman*
