@@ -19,17 +19,6 @@
 <tr>
 <td valign="top" style="padding: 15px; vertical-align: top; background-color: #f0f0f0;">
   
-### Merged PRs
-- [Adding classical Reed-Muller code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/244)
-- [Adding iscss function for #222](https://github.com/QuantumSavory/QuantumClifford.jl/pull/241)
-- [Adding Cousin details of [[8,3,3]] stabilizer code](https://github.com/errorcorrectionzoo/eczoo_data/pull/341)
- 
-### Open PRs
-- [adding classical Reed-Solomon and BCH codes to the ECC Module](https://github.com/QuantumSavory/QuantumClifford.jl/pull/254)
-- [SteaneReedMuller Code ](https://github.com/QuantumSavory/QuantumClifford.jl/pull/251)
-### Courses I am part of
- - [Spin-based Quantum Computing - Qubit Platforms (2024)](https://www.nccr-spin.ch/news/open-course-spin-based-quantum-computing-qubit-platforms-2024)
-
 ### Projects Demonstration
 -  [Bachelors Thesis](https://drive.google.com/file/d/1Hf5TzoBrv4sndfoux04q8yrBUtrl11RA/view?usp=sharing)
    - [Demonstation](https://drive.google.com/file/d/11NER5rYtfMe7j5IyV6gFbEhFXv7qvngh/view)
@@ -73,12 +62,6 @@
      - [Hume's Paradox](https://pragmaticlyabstract.medium.com/humes-paradox-the-power-of-opinion-in-authoritarian-structures-f672635df5e7)
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Fe-r-oz&theme=blue-navy)](https://git.io/streak-stats)
-       
-### Co-authored PRs
-- [Gottesman's Code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/240)
-
-### Closed PRs
-- [Homegrown Implementation of Gottesman code](https://github.com/QuantumSavory/QuantumClifford.jl/pull/238)
 
 </td>
 </tr>
