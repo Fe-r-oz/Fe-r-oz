@@ -1,4 +1,4 @@
-## Welcome  ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
+## ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
