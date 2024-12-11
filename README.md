@@ -2,8 +2,8 @@
 
 #### Research Interests 
 - Quantum Error Correction
-- Non-Clifford Stabilizer formalism
-- ML Accelerators
+- Non-Clifford stabilizer formalism
+- ML accelerators
   
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
