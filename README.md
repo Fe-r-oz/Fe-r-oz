@@ -1,5 +1,10 @@
 ## ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
 
+#### Research Interests 
+- Quantum Error Correction
+- Non-Clifford Stabilizer formalism
+- ML Accelerators
+  
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fe-r-oz&theme=github_dark"/>
