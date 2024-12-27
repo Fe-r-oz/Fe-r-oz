@@ -2,7 +2,7 @@
 
 #### Research Interests 
 - Quantum Error Correction
-- Non-Clifford stabilizer formalism
+- Non-Clifford formalism
 - ML accelerators
   
 <div align="center">
