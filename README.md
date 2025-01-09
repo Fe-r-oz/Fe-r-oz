@@ -1,70 +1,21 @@
 ## ![](https://komarev.com/ghpvc/?username=Fe-r-oz&color=blueviolet)
 
-#### Research Interests 
-- Quantum Error Correction
-- Non-Clifford formalism
-- ML accelerators
-  
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fe-r-oz&theme=github_dark"/>
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fe-r-oz&theme=github_dark"/>
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fe-r-oz&theme=github_dark"/>
-  </a>
-</div>
+## Feroz Ahmad
+<a href="https://scholar.google.com/citations?user=06L6IaIAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.linkedin.com/in/feroz-ahmad-a4b00a22a/">LinkedIn</a> / <a href="https://pragmaticlyabstract.medium.com/">Medium</a> / <a href="https://ieeexplore.ieee.org/author/284873713343186">IEEE Author Profile</a>  
 
-<table style="width: 100%; border-collapse: collapse; background-color: #F0EEE0">
-<tr>
-<td valign="top" style="padding: 15px; vertical-align: top; background-color: #f0f0f0;">
- 
-### Projects Demonstration
--  [Bachelors Thesis](https://drive.google.com/file/d/1Hf5TzoBrv4sndfoux04q8yrBUtrl11RA/view?usp=sharing)
-   - [Demonstation](https://drive.google.com/file/d/11NER5rYtfMe7j5IyV6gFbEhFXv7qvngh/view)
-   - [High Level Synthesis](https://drive.google.com/file/d/1D1L7VW7wPGFh4X2ThIeDf2wji_eQjKVp/view)
-   - [Investigation and Testing](https://drive.google.com/file/d/1DLl6uXcefTzakWTSMXCKL0XQ-6ty9vLh/view)
-- [Pulse Width Modulation](https://drive.google.com/file/d/1B3MJRndNn3Ljj4pWAY5kzeo6Uwts84uW/view?usp=sharing)
-   - [Pulse Width Shaping](https://drive.google.com/file/d/1Euf0GnOQt1OZg48J_G98ttEPd1I_huzL/view)
-   - [Dimming Effect of Modulation](https://drive.google.com/file/d/1PuWWsn8yBvko8I4AIpJzoWOh2S7COG2U/view?usp=sharing)
-   - [Design Simulation](https://drive.google.com/file/d/1bReUumJahM-54HgRhMCEmbSPBZZNymhr/view?usp=drive_link)
- 
-</td>
-<td valign="top">
+---------------
+### <ins>Interests & Active Research Areas</ins>
+#### <ins>Primary Research Areas</ins>
 
-### Selected Publication
--  [Published Journal Paper: SoC-based Deep Learning Accelerator for ECG Classification](https://ieeexplore.ieee.org/document/10399904)
+* Quantum Error Correction
+* Non-Clifford formalism
+* ML accelerators
+* Large Language Models
+---------------
 
-### Selected Articles  
- [![Feroz Ahmad's Medium](https://github-readme-medium.vercel.app/?username=pragmaticlyabstract&limit=1)](https://medium.com/@pragmaticlyabstract)
-- [Constructor Theory of Information and Its Application in Hybrid Quantum Systems](https://medium.com/quantum-engineering/constructor-theory-60093a2885ef)
-- [Topological Quantum Computing](https://medium.com/quantum-engineering/topological-quantum-computation-a82ea546fc1b)
-- [Neutral Atom Quantum Computing](https://medium.com/quantum-engineering/neutral-atom-quantum-computing-800b1f43e907)
-- [Trapped-Ion Quantum Compting](https://medium.com/quantum-engineering/trapped-ion-quantum-computing-37450f6de5d8)
-- [Photonic Quantum Compting](https://medium.com/quantum-engineering/photonic-quantum-computing-66c8be38035c)
-- [Superconducting Quantum Computing](https://medium.com/quantum-engineering/superconducting-quantum-computing-be9b6c39647b)
-- [Silicon-based Quantum Computing](https://medium.com/quantum-engineering/silicon-based-quantum-computing-af136a56e921)
-- [Quantum Annealing](https://medium.com/quantum-engineering/d-wave-and-quantum-annealing-cf8b1a77d46e)
-- [Quantum Materials](https://medium.com/quantum-engineering/quantum-materials-f8541e155274)
- 
-</td>
-
-<td valign="top">
-
-### Hobbies
- 
-- [Founder and Editor of Quantum Engineering Publication](https://medium.com/quantum-engineering)
-- [Book Reviews](https://pragmaticlyabstract.medium.com/list/philosophy-68214073916a)
-    - [La Chute](https://medium.com/@pragmaticlyabstract/the-fall-la-chute-literature-analysis-fe48cd5f40ea)
-    - [The Stranger](https://medium.com/@pragmaticlyabstract/book-review-the-stranger-a4d8f043650b)
-- [Economics and Global Monetary System](https://pragmaticlyabstract.medium.com/list/global-economic-system-60b459918712)
-     - [15 Aug, 1971](https://pragmaticlyabstract.medium.com/15-aug-1971-the-onset-of-the-inevitable-decline-of-gobal-monetary-system-0dead6f93e2b)
-     - [Hume's Paradox](https://pragmaticlyabstract.medium.com/humes-paradox-the-power-of-opinion-in-authoritarian-structures-f672635df5e7)
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fe-r-oz&theme=blue-navy)](https://git.io/streak-stats)
-
-</td>
-</tr>
-</table>
+### <ins>Work Experience</ins>
+* **March 2024 - Present**: Quantum Software Developer @ <a href="https://github.com/QuantumSavory/.github/blob/main/BUG_BOUNTIES.md"> Quantum Savory Org. Bug Bounty Program</a> @ <a href="https://lab.krastanov.org/"> Krastanov Lab<a>
+* **May 2024 - June 2024**: Quantum Software Developer @ <a href="https://unitaryhack.dev/leaderboard/"> Quantum Unitary Hackathon 2024
+* **June 2023 - May 2024**: Womanium Quantum Fellow @<a href="https://www.amd.com/en.html"> WOMANIUM</a>
+* **Feb 2023 - Feb 2024**: Research Assistant @<a href="https://lhr.nu.edu.pk/ee/research/snrg"> Smart Networking Research Group Lab</a>
+* **Aug 2019 - May 2023**: EE BS @<a href="https://lhr.nu.edu.pk/"> FAST-NUCES</a>
