@@ -8,8 +8,8 @@
 #### <ins>Primary Research Areas</ins>
 
 * Quantum Error Correction
-* Non-Clifford formalism
-* ML accelerators
+* Non-Clifford Formalism
+* ML Accelerators
 * Large Language Models
 ---------------
 
