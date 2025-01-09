@@ -16,6 +16,6 @@
 ### <ins>Work Experience</ins>
 * **March 2024 - Present**: Quantum Software Developer @ <a href="https://github.com/QuantumSavory/.github/blob/main/BUG_BOUNTIES.md"> Quantum Savory Org. Bug Bounty Program</a> @ <a href="https://lab.krastanov.org/"> Krastanov Lab<a>
 * **May 2024 - June 2024**: Quantum Software Developer @ <a href="https://unitaryhack.dev/leaderboard/"> Quantum Unitary Hackathon 2024
-* **June 2023 - May 2024**: Womanium Quantum Fellow @<a href="https://www.amd.com/en.html"> WOMANIUM</a>
+* **June 2023 - May 2024**: Womanium Quantum Fellow @<a href="https://www.womanium.org/Quantum/Computing"> WOMANIUM</a>
 * **Feb 2023 - Feb 2024**: Research Assistant @<a href="https://lhr.nu.edu.pk/ee/research/snrg"> Smart Networking Research Group Lab</a>
 * **Aug 2019 - May 2023**: EE BS @<a href="https://lhr.nu.edu.pk/"> FAST-NUCES</a>
