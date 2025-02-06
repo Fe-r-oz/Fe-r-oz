@@ -10,7 +10,6 @@
 * Quantum Error Correction
 * Non-Clifford Formalism
 * ML Accelerators
-* Large Language Models
 ---------------
 
 ### <ins>Work Experience</ins>
